@@ -1,0 +1,8 @@
+A text editor is an essential tool for those who need to modify these files,
+although the need to manually edit these files is decreasing as more GUI
+(graphical) tools are developed to maintain Windows files. Graphical (X-
+windows based) text editors include gedit, gless, kedit, and kwrite. Ed is a really
+basic/crude line editor, for those who like pain! Emacs is a screen based (but
+not X- windows) editor. Thomas Rico is a screen based (but not X- windows)
+editor. Sed is a stream editor (filter program), like ed, for use in shell
+scripts/programs. Vi - visual editor (screen based but not X- windows)editor.
